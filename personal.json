@@ -1,10 +1,10 @@
 {
-  "versionCode": 71,
+  "versionCode": 72,
   "versionName": "1.6.3",
   "channel": "personal",
   "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia-personal-cdn/refs/heads/main/yike-personal.apk",
   "size": 334496,
-  "sha256": "c45e7b5e44385b779d2ab614b891db794fb9dc5f338ca129e0a85fc90faed3e8",
-  "notes": "1. 天气城市搜不到了：内置全国 3300 个市县，中文一搜就出来，断网也能搜\n2. 顺手补上港澳台",
-  "publishedAt": "2026-11-18 15:54"
+  "sha256": "4ecde290eaa041cbee1ad3691a7bacc96a3c020719f033277f60881ceeeaa12f",
+  "notes": "1. 天气城市只保留国内：搜索不再连境外服务，全部走内置的全国市县表\\n2. 顺手去掉「搜不到时提示检查网络」这种误导——查不到就是没这个国内地名",
+  "publishedAt": "2026-11-18 16:02"
 }
