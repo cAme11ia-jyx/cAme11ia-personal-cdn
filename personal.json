@@ -1,10 +1,10 @@
 {
-  "versionCode": 70,
+  "versionCode": 71,
   "versionName": "1.6.3",
   "channel": "personal",
   "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia-personal-cdn/refs/heads/main/yike-personal.apk",
-  "size": 305824,
-  "sha256": "b98c34fe9650132f3bce8d3044013576faa34da607af35122b82d8ffbae0a001",
-  "notes": "1. 新增天气：课表页顶部一条，显示当前温度、天气状况、今日温度区间与降水概率\n2. 数据来自 Open-Meteo（免登录），默认学校所在的百色；点右侧城市名可搜别的城市\n3. 拿不到天气时整块自动隐藏，不影响看课表；每 30 分钟才刷新一次，省流量\n4. 主题配色与顶部署名一并沿用",
-  "publishedAt": "2026-11-18 15:22"
+  "size": 334496,
+  "sha256": "c45e7b5e44385b779d2ab614b891db794fb9dc5f338ca129e0a85fc90faed3e8",
+  "notes": "1. 天气城市搜不到了：内置全国 3300 个市县，中文一搜就出来，断网也能搜\n2. 顺手补上港澳台",
+  "publishedAt": "2026-11-18 15:54"
 }
