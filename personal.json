@@ -1,10 +1,10 @@
 {
-  "versionCode": 66,
+  "versionCode": 67,
   "versionName": "1.6.3",
   "channel": "personal",
-  "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia-personal-cdn/main/yike-personal.apk",
+  "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia-personal-cdn/refs/heads/main/yike-personal.apk",
   "size": 293461,
-  "sha256": "904a6e470b5daa8cc744be16520ea212c68d47dac0a8d655798a8224d9009cd6",
-  "notes": "1. 新增液态玻璃效果：顶栏、周切换条、底部导航与各类卡片更通透，带毛玻璃与边缘高光\n2. 深色模式下呈现完整液态折射（移植自 GitHub 开源项目 liquid-glass-react）\n3. 浅色模式保持干净清爽，文字清晰不影响阅读",
-  "publishedAt": "2026-11-18 14:34"
+  "sha256": "9b9c09bb583efe54b48a9b3fc197df9599891b5bad7bf5479614891de42a6602",
+  "notes": "1. 新增液态玻璃效果：顶栏、周切换条、底部导航与各类卡片更通透，带毛玻璃与边缘高光\n2. 深色模式下呈现完整液态折射（移植自 GitHub 开源项目 liquid-glass-react）\n3. 浅色模式保持干净清爽，文字清晰不影响阅读\n4. 修复更新通道：改用完整 raw 路径，避免 CDN 缓存导致读到旧清单",
+  "publishedAt": "2026-11-18 14:37"
 }
