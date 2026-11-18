@@ -3,8 +3,8 @@
 本仓库只放个性化版的更新清单与安装包，供 App 内「检查更新」匿名下载。
 源码与备份在私有仓库 `cAme11ia-private01`。
 
-- `personal.json` —— 个性化版更新清单，v1.6.3 / versionCode 67
-- `yike-personal.apk` —— 对应安装包，size 293461，sha256 `9b9c09bb583efe54b48a9b3fc197df9599891b5bad7bf5479614891de42a6602`
+- `personal.json` —— 个性化版更新清单，v1.6.3 / versionCode 68
+- `yike-personal.apk` —— 对应安装包，size 293461，sha256 `e31804cbc5f7581e4e5f851eb546002046eba39f19e9bdd9c59a30f86e71ffe5`
 
 ## 为什么公开
 
