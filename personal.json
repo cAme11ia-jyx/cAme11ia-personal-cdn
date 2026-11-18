@@ -1,10 +1,10 @@
 {
-  "versionCode": 67,
+  "versionCode": 68,
   "versionName": "1.6.3",
   "channel": "personal",
   "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia-personal-cdn/refs/heads/main/yike-personal.apk",
   "size": 293461,
-  "sha256": "9b9c09bb583efe54b48a9b3fc197df9599891b5bad7bf5479614891de42a6602",
-  "notes": "1. 新增液态玻璃效果：顶栏、周切换条、底部导航与各类卡片更通透，带毛玻璃与边缘高光\n2. 深色模式下呈现完整液态折射（移植自 GitHub 开源项目 liquid-glass-react，MIT）\n3. 浅色模式保持干净清爽，文字清晰不影响阅读",
-  "publishedAt": "2026-11-18 14:41"
+  "sha256": "e31804cbc5f7581e4e5f851eb546002046eba39f19e9bdd9c59a30f86e71ffe5",
+  "notes": "1. 修复：底部菜单栏偶发漂移到屏幕中间、下方留白的问题（液态玻璃样式覆盖了弹层定位）\n2. 液态玻璃效果保持不变：顶栏、周切换条、底部导航与卡片更通透\n3. 深色模式完整液态折射，浅色模式干净清爽",
+  "publishedAt": "2026-11-18 14:50"
 }
