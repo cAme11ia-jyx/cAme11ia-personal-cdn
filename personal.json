@@ -1,10 +1,10 @@
 {
-  "versionCode": 69,
+  "versionCode": 70,
   "versionName": "1.6.3",
   "channel": "personal",
   "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia-personal-cdn/refs/heads/main/yike-personal.apk",
-  "size": 301728,
-  "sha256": "9572d20847448c3a2eb50201ba4fe75db97c0f39b803b41880ae927a1667817d",
-  "notes": "1. 新增「主题配色」：教务蓝 / 青碧 / 藤紫 / 朱砂 / 松绿五套，浅色深色都跟着变\n2. 新增「顶部署名」：顶部那行副标题可换成自己的，留空恢复默认\n3. 液态玻璃的边缘高光会跟着配色一起改，整体更协调",
-  "publishedAt": "2026-11-18 15:07"
+  "size": 305824,
+  "sha256": "b98c34fe9650132f3bce8d3044013576faa34da607af35122b82d8ffbae0a001",
+  "notes": "1. 新增天气：课表页顶部一条，显示当前温度、天气状况、今日温度区间与降水概率\n2. 数据来自 Open-Meteo（免登录），默认学校所在的百色；点右侧城市名可搜别的城市\n3. 拿不到天气时整块自动隐藏，不影响看课表；每 30 分钟才刷新一次，省流量\n4. 主题配色与顶部署名一并沿用",
+  "publishedAt": "2026-11-18 15:22"
 }
